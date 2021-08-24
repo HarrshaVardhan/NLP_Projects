@@ -8,4 +8,3 @@
 
  Project 4 : Whatsapp Group Chat analysis
 
- Project 5 : Amazon Sentiment Anaysis
