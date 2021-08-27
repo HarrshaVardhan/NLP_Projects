@@ -1,10 +1,5 @@
 # NLP_Projects
-
- Project 1 : Resume Screening of several categories 
-
- Project 2 : Sentiment Analysis
-
- Project 3 : Text Summarization
-
+ Resume Screening of different categories
+ 
  Project 4 : Whatsapp Group Chat analysis
 
